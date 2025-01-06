@@ -1,0 +1,24 @@
+body {
+    background: #eeedec;
+    letter-spacing: 0.2em;
+    font-size: 0.8em;
+}
+
+.container {
+    max-width: 400px;
+}
+
+.time {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+/* Example styles for different weather conditions */
+.sunny {
+    background-image: url('images/sunny.jpg');
+}
+
+.rainy {
+    background-image: url('images/rainy.jpg');
+}
